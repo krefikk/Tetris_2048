@@ -15,10 +15,10 @@ Use space for hard drop.<br>
 There is no relase for this repo, so you should download the source code and run Tetris_2048.py in your computer.
 
 # Images
-![Main Screen](https://i.hizliresim.com/g0s1gyt.PNG](https://i.hizliresim.com/tfs833t.PNG)<br>
-![Settings](https://i.hizliresim.com/1umx94d.PNG](https://i.hizliresim.com/apnabm7.PNG)<br>
-![Game](https://i.hizliresim.com/1umx94d.PNG](https://i.hizliresim.com/545816q.PNG)<br>
-![Pause Menu](https://i.hizliresim.com/1umx94d.PNG](https://i.hizliresim.com/p7fzuuf.PNG)<br>
+![Main Screen](https://i.hizliresim.com/tfs833t.PNG)<br>
+![Settings](https://i.hizliresim.com/apnabm7.PNG)<br>
+![Game](https://i.hizliresim.com/545816q.PNG)<br>
+![Pause Menu](https://i.hizliresim.com/p7fzuuf.PNG)<br>
 
 # Contributing and Credits
 This is a project I did with my friends, I want to show it on my profile so I forked it. If you want you can check the original repo, too.
